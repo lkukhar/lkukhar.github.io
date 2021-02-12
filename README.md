@@ -1,3 +1,3 @@
-# [Live Site](http://lkukhar.github.com)
+# [Live Site](http://lkukhar.github.io)
 
 ## A Portfolio / Resume Site
